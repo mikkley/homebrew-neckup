@@ -1,6 +1,6 @@
 cask "neckup" do
-  version "0.2.0"
-  sha256 "ed38d0e62b18324004a510ea3298faada3eca7bdf0f2da91f1b3957224362bb3"
+  version "0.2.1"
+  sha256 "508aaf3614fd53ee58a37e6cc0d3024d8fe4d4857c018f4396176a1d9fdd9065"
 
   url "https://github.com/mikkley/neckup/releases/download/v#{version}/NeckUp-macOS.zip"
   name "NeckUp"
